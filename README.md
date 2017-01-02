@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tensorflow Tutorials using Jupyter Notebook 
 
 TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried to explain as kindly as possible, as these tutorials are intended for TensorFlow beginners. Hope these tutorials to be a useful recipe book for your deep learning projects. Enjoy coding! :) 
@@ -34,3 +35,7 @@ There could be missing credits. Please let me know.
 
 #### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
 [info](http://cpslab.snu.ac.kr/people/sungjoon-choi)
+=======
+# tensorflow_practice
+tensorflow_practice
+>>>>>>> 432c1cd4ed6b0a8694194ef5b78b0f68a8916de7
