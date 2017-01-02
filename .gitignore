@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 notebooks/data*
 notebooks/.ipynb* 
 .ipynb_checkpoints
@@ -11,6 +12,8 @@ blank.ipynb
 =======
 =======
 >>>>>>> 432c1cd4ed6b0a8694194ef5b78b0f68a8916de7
+=======
+>>>>>>> a89055d0dc8f141320fcde2d8a68a3ce50cd8acc
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -101,6 +104,9 @@ ENV/
 # Rope project settings
 .ropeproject
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ebac4a3ef87ccc2df4c4e5604da7439ab382b023
 =======
 >>>>>>> 432c1cd4ed6b0a8694194ef5b78b0f68a8916de7
+=======
+>>>>>>> a89055d0dc8f141320fcde2d8a68a3ce50cd8acc
