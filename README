@@ -1,8 +1,8 @@
-# Tensorflow Tutorials using Jupyter Notebook 
+#Tensorflow Tutorials using Jupyter Notebook 
 
 TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried to explain as kindly as possible, as these tutorials are intended for TensorFlow beginners. Hope these tutorials to be a useful recipe book for your deep learning projects. Enjoy coding! :) 
 
-## Contents
+##Contents
 1. Basics of [TensorFlow](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_tensorflow.ipynb) / [MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_mnist.ipynb) / [Numpy](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_python.ipynb)  / [Image Processing](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_imgprocess.ipynb) / [Generating Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/basic_gendataset.ipynb)
 2. Machine Learing Basics with TensorFlow: [Linear Regression](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/linear_regression.ipynb) / [Logistic Regression with MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_mnist.ipynb) / [Logistic Regression with Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/logistic_regression_customdata.ipynb)
 3. Multi-Layer Perceptron (MLP): [Simple MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_simple.ipynb) / [Deeper MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_deeper.ipynb) / [Xavier Init MNIST](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_mnist_xavier.ipynb) / [Custom Dataset](https://github.com/sjchoi86/tensorflow-101/blob/master/notebooks/mlp_customdata_basic.ipynb)
@@ -20,7 +20,7 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 15. [Neural Style](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/neural_style.ipynb)
 16. [Face detection with OpenCV](https://github.com/sjchoi86/Tensorflow-101/blob/master/notebooks/basic_opencv2.ipynb)
 
-## Requirements
+##Requirements
 - TensorFlow
 - Numpy
 - SciPy
@@ -28,17 +28,9 @@ TensorFlow tutorials written in Python (of course) with Jupyter Notebook. Tried 
 - BeautifulSoup
 - [Pretrained VGG](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat): inside 'data/' folder
 
-## Note
+##Note
 Most of the codes are simple refactorings of [Aymeric Damien's Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/) or [Nathan Lintz's Tutorial](https://github.com/nlintz/TensorFlow-Tutorials). 
 There could be missing credits. Please let me know. 
 
-#### Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
+####Collected and Modifyed by [Sungjoon](http://enginius.tistory.com) 
 [info](http://cpslab.snu.ac.kr/people/sungjoon-choi)
-
-# tensorflow_practice
-tensorflow_practice
->>>>>>> 432c1cd4ed6b0a8694194ef5b78b0f68a8916de7
-=======
-# tensorflow
-practice
->>>>>>> a89055d0dc8f141320fcde2d8a68a3ce50cd8acc
